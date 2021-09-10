@@ -1,5 +1,7 @@
+// Tyler Goldenhart
+// https://docs.microsoft.com/en-us/windows/uwp/cpp-and-winrt-apis/get-started
 // Tutorial__3.cpp : Defines the entry point for the application.
-//
+// ---------------------------------------------------------------------------
 
 // pch.h
 
